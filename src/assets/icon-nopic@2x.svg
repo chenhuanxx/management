@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-nopic@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.36028517,10.1887123 C5.25416321,12.8980797 4,16.3025771 4,20 C4,28.836556 11.163444,36 20,36 C23.6974229,36 27.1019203,34.7458368 29.8112877,32.6397148 L7.36028517,10.1887123 Z M10.1887123,7.36028517 L32.6397148,29.8112877 C34.7458368,27.1019203 36,23.6974229 36,20 C36,11.163444 28.836556,4 20,4 C16.3025771,4 12.8980797,5.25416321 10.1887123,7.36028517 Z M20,40 C8.954305,40 0,31.045695 0,20 C0,8.954305 8.954305,0 20,0 C31.045695,0 40,8.954305 40,20 C40,31.045695 31.045695,40 20,40 Z" id="icon-nopic" fill="#778899"></path>
+    </g>
+</svg>

@@ -1,0 +1,1518 @@
+{
+  "code": "0",
+  "msg": "ok",
+  "data": [
+      {
+          "itemId": "785514107125104640",
+          "name": "1．建立医学装备管理部门。（2分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107146076160",
+                  "name": "1．建立院领导、医学装备管理部门和使用部门三级管理制度，成立医学装备管理委员会，履行管理职能。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107146076161",
+                          "name": "1.医学装备管理委员会成立文件、工作章程（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": true,
+                          "isFinish": true,
+                          "dirs": [
+                              {
+                                  "dirId": "785561863923433472",
+                                  "dirName": "文件夹1",
+                                  "files": [
+                                      {
+                                          "fileId": "785563506379325440",
+                                          "fileName": "测试文件111.doc",
+                                          "fileType": "doc",
+                                          "fileUrl": "2222"
+                                      }
+                                  ]
+                              },
+                              {
+                                  "dirId": "785562701291061248",
+                                  "dirName": "文件夹2",
+                                  "files": null
+                              },
+                              {
+                                  "dirId": "785562725907431424",
+                                  "dirName": "文件夹3",
+                                  "files": null
+                              }
+                          ],
+                          "files": [
+                              {
+                                  "fileId": "785563247649488896",
+                                  "fileName": "医学装备管理委员会成立文件.doc",
+                                  "fileType": "doc",
+                                  "fileUrl": "1111111"
+                              },
+                              {
+                                  "fileId": "785563390188716032",
+                                  "fileName": "医学装备管理委员会工作章程.doc",
+                                  "fileType": "doc",
+                                  "fileUrl": "2222"
+                              }
+                          ]
+                      },
+                      {
+                          "itemId": "785514107146076162",
+                          "name": "2、年度会议记录，并形成相关的批复文件。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107150270464",
+          "name": "2．1 建立医学装备管理组织技术队伍，人员配置合理。（3 分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107150270465",
+                  "name": "1．根据医院规模及医学装备情况建立相应的医学装备部门和装备管理与使用技术队伍，专（兼）职医学装备的管理与维护、维修，人员配置合理。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107154464768",
+                          "name": "★3.专（兼）职医学装备的管理与维护、维修人员架构，配置合理，采购、账、物管理必须有相对独立的人员。（2分）（如果有医疗设备整体委托服务，请提供医院及服务方维修与管理人员架构）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107154464769",
+                  "name": "2．大型医用设备工程技术人员须接受岗位培训，业务能力考评合格方可上岗。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107154464770",
+                          "name": "4.工程系列相关的人员职称证书、学历学位证书、临床工程师资质、大型设备维修资质等（医工会临床工程师认证、大型设备维修资质、或厂家的培训证书等）。（1分）（说明：其中职称证书、学历学位证书仅在线下查看，其他证书需线上上传）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107154464771",
+          "name": "2．2 制定相关工作制度、职责和工作流程。\n（3.5分 ）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107158659072",
+                  "name": "1．有医学装备管理制度、人员岗位职责。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107158659073",
+                          "name": "5.医学装备管理部门工作制度与岗位职责。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107158659074",
+                  "name": "2．有医学装备论证、决策、购置、验收、使用、保养、维修、应用分析和更新、处置等相关制度与工作流程。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107158659075",
+                          "name": "6.计划购置审批制度、采购制度、安装验收制度、信息档案制度、使用保管制度、大型医用设备使用评价分析制度、维修维护制度、计量器具管理制度、设备操作培训制度和考核制度与程序、调拨制度、报废报损制度、不良事件监测与报告制度、医学装备应急预案与意外事件应急程序、应急物资和设备的管理制度及审批程序、医疗器械临床使用安全控制与风险管理制度等全过程的工作制度与流程。(1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107162853376",
+                  "name": "3.有医学装备管理制度与岗位职责的监管与考核机制。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107167047680",
+                          "name": "7.部门人员的医学装备管理制度与岗位职责的定期考核与记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107167047681",
+                  "name": "4．有根据监管情况进行改进的措施并得到落实。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107167047682",
+                          "name": "8.有本年度制度和流程的改进措施，并得到落实（原有制度、流程的更新等）。（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107171241984",
+          "name": "3.1制定常规与大型医学装备配置方案。\n（8.5分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107171241985",
+                  "name": "1．医学装备配置原则与配置标准，根据医院功能定位和发展规划，制订医学装备发展规划和配置方案。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107171241986",
+                          "name": "★9.有经审核的医疗设备计划论证资料，制定年度设备采购总预算；按照医院采购流程提供全过程监管记录；大型设备提供计划审核资料。（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107175436288",
+                  "name": "2．有根据全国卫生系统医疗器械仪器分类，建立的医学装备分类、分户电子账目，实行信息化管理。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107175436289",
+                          "name": "10.固定资产管理信息系统（系统应包括：入库管理、出库管理、调配管理、报废管理、统计管理、帐页管理、信息查询、输出报表等）（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107175436290",
+                          "name": "11.设备总账与分户账，账物相符，提供全院装备清单及近两年清点记录。（0.5）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107175436291",
+                  "name": "3．有医学装备购置论证相关制度与决策程序，甲乙类大型医用设备有可行性论证。购置纳入国家规定管理品目的大型设备持有配置许可证。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107175436292",
+                          "name": "★12.按设备采购金额抽查单价50万元及以上设备招标采购的档案资料2份（申请理由、效益分析、论证小结、审批意见、签字、招标文件、开评标记录（国家卫计委及总后招标除外）、设备合同、设备安装验收文件等档案相关资料），及相关按规定程序审批购置的资料，提供全过程监管记录。大型设备配置许可证（根据清单检查全部许可证）（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107179630592",
+                  "name": "4．有健全医学装备档案管理制度与完整的档案资料，单价在5万元及以上的医学装备按照集中统一管理的原则，作到档案齐全、账目明晰、账物相符、完整准确。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107179630593",
+                          "name": "★13.按设备采购金额抽查单价50万元以下设备招标采购的档案资料3份（申请理由、效益分析、论证小结、审批意见、签字、招标文件、开评标记录（政采、总后招标除外）、设备合同、设备安装验收文件等档案相关资料），及相关按规定程序审批购置的资料，提供全过程监管记录。（3分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107179630594",
+          "name": "3.2有大型医用设备成本效益、临床使用效果、质量等分析。（3分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107179630595",
+                  "name": "1．有大型医用设备使用、社会效益、成本效益等分析评价。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107183824896",
+                          "name": "14.甲乙类大型医用设备使用、社会效益、成本效益等分析评价报告（年度）。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107183824897",
+                  "name": "2.分析评价报告提供给装备委员会并反馈到有关科室。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107183824898",
+                          "name": "15.甲乙类大型医用设备分析评价报告提供给装备委员会并反馈到有关科室的信息反馈表，检查相关记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107183824899",
+                  "name": "3．分析评价报告涉及的问题得到改进，并将结果用于调整相关装备采购参考",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107183824900",
+                          "name": "16.上年度分析评价报告涉及的问题得到改进，并将结果用于调整相关装备采购参考。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107188019200",
+          "name": "4.加强医学装备安全有效管理，对医疗器械临床使用安全控制与风险管理有明确的工作制度与流程。建立医疗器械临床使用安全事件监测与报告度。（12分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107188019201",
+                  "name": "1．有医学装备质量保障，医学装备须计（剂）量准确、安全防护、性能指标合格方可使用。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107188019202",
+                          "name": "★17.检查5份大型设备（CT\\MR\\LA\\ECT\\SPECT等)2019年度预防性维护保养计划与实施记录、日常保养和维护记录等，形成评价报告。预防性保养达到100%。（5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107188019203",
+                  "name": "2．有医学装备保障情况的登记资料，信息真实、完整、准确。制定急救、生命支持类等设备的预防性维护维修计划，有医学装备故障维修情况的分析报告，用于指导装备的规范使用。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107192213504",
+                          "name": "★18.重点检查急救设备风险评估、预防性维护保养计划与实施记录、日常保养和维护记录等，形成评价报告。除颤仪预防性保养达到90%以上。（3分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107192213505",
+                          "name": "19.检查设备维修记录5份（设备名称、科室、审批签名等）（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107192213506",
+                          "name": "20.检查医学装备故障维修情况分析报告。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107192213507",
+                          "name": "21.报废设备需填写正规的报废申请单，审批规范。抽查5份报废单，内容包括：报废理由、科室签名、购置时间、设备价格、审批签名等，资产评估报告（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107192213508",
+                  "name": "3．有鼓励医学装备临床使用安全事件监测与报告措施。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107196407808",
+                          "name": "22.有医院鼓励医学装备临床使用安全监测与报告的措施。（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107196407809",
+                  "name": "4．及时向卫生行政部门和有关部门报告医疗器械临床使用安全事件，有完整的信息资",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107196407810",
+                          "name": "23.检查医疗器械临床使用安全事件的实例资料（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107196407811",
+          "name": "5.建立医疗仪器设备\n使用人员操作培训和\n考核制度，职能部门\n加强监管，提供咨询\n服务与技术指导。（4\n分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107196407812",
+                  "name": "1．医疗设备操作人员经过相应设备操作培训。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107200602112",
+                          "name": "24.检查验收中的使用培训记录（不同设备，5份）。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107200602113",
+                          "name": "25.设备管理负责人及每位工程技术人员每年至少一次参加市级学会、协会、质控中心相关知识的继续教育和学术交流活动，并提供学分、相关参会记录或相关学科专业培训记录（公司、学会或科室）。（1分）（2019年）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107200602114",
+                  "name": "2．医疗装备部门为临床合理使用医疗器械提供技术支持、业务指导、安全保障与咨询服务。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107200602115",
+                          "name": "26.为临床合理使用医疗器械提供年度1-2次集中培训与指导，并有相关记录。设备管理部门对临床使用部门的监管，有生命支持类、急救类、植入类、辐射类、灭菌类和大型医用设备等医疗器械临床使用安全控制与风险管理制度培训资料（临床培训）（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107204796416",
+          "name": "6．成立科室医学装备\n质量与安全管理团\n队。有明确的质量与\n安全指标,科室开展\n定期评价活动,解读\n评价结果,有持续改\n进效果的记录。(3分)",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107204796417",
+                  "name": "1．由科主任、工程师与具备资质的质量控制人员组成质量与安全管理团队，负责医疗装备质量和安全管理。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107204796418",
+                          "name": "27.由装备管理部门主任、工程师与具备资质的质量控制人员组成的质量与安全管理团队，检查小组名单，及管理员职责。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107204796419",
+                  "name": "2．医学装备部门有明确的质量与安全指标，定期通报医疗器械临床使用安全与风险管理监测的结果。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107204796420",
+                          "name": "28.医学装备临床质量与安全指标要求，有科室安全质量自查记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107208990720",
+                  "name": "3．对存在问题与缺陷有改进措施及落实情况评价。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107208990721",
+                          "name": "29.定期通报医疗器械临床使用安全与风险管理监测的结果，并对存在问题与缺陷有改进措施及落实情况评价。（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107208990722",
+                  "name": "4.持续改进有成效。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107208990723",
+                          "name": "★30.有针对管理与维修中流程、制度等的持续改进特定项目，并有成效。（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107213185024",
+          "name": "7．加强医用耗材（包\n括植入类耗材）和一\n次性使用无菌器械管\n理。（23分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107213185025",
+                  "name": "1．有医用耗材（包括植入类耗材）和一次性使用无菌器械管理制度与程序以及相关记录（采购记录、溯源管理、储存管理、档案管理、销毁记录等）。2．.抽查当年购置的骨科、心脏介入、神经或外周血管介入、普外科、神经外科、心胸外科、泌尿科、妇产科、眼科、耳鼻喉科、口腔科等植入性高值耗材各1份、共5份。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107213185026",
+                          "name": "31.库房要保持相对独立。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107213185027",
+                          "name": "★32.根据储存器械的特点具备控温、控湿、避光和通风等相应设施。还应当监测和记录贮存区域的温度、湿度等数据。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107213185028",
+                          "name": "33.专库、专架分类存放(1分)",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107217379328",
+                          "name": "34.库房空间分区和标识要明确，实行效期管理。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107217379329",
+                          "name": "35.验收、出入库信息记录要客观、完整。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107217379330",
+                          "name": "36.库房账和实物应相符，并检查库房盘点记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107217379331",
+                          "name": "37.检查医疗器械高值耗材申请、准入、采购制度与流程,采购流程规范、入口统一。收费耗材必须严格按照上海市阳光采购平台操作。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107217379332",
+                          "name": "★38.病史中的植入器械使用登记表上有和收费数量相符的产品唯一性标识标签（追溯标签），且登记表有医生签名。（3分）医用植入物追溯标签100%",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107221573632",
+                          "name": "★39.产品标签上有生产企业名称、产品名称、规格型号、生产批号/序列号、产地、产品有效期。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107221573633",
+                          "name": "★40.病史中有使用该植入性器械的手术记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107221573634",
+                          "name": "41.比对病史手术记录及《医疗器械注册证》，没有超注册证产品适用范围使用。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107221573635",
+                          "name": "★42.病史中有使用该植入性器械的医患双方签署的知情同意书。（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107221573636",
+                          "name": "43.该植入性器械按本院相关规定经过准入审批，有谈判记录或采购协议。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107225767936",
+                          "name": "44.各环节供应商均有在有效期内的《医疗器械生产企业许可证》或《医疗器械经营企业许可证》，且本产品在许可范围内。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107225767937",
+                          "name": "★45.各环节供应商均有在有效期内的销售授权，且本医疗机构、本产品在授权范围内。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107225767938",
+                          "name": "46.产品名称、规格型号与注册证相符。（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107225767939",
+                          "name": "47.医疗器械注册证在有效期内。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107225767940",
+                          "name": "48.有医用耗材入库和出库记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107229962240",
+                          "name": "★49.产品追溯信息与患者信息绑定，记录进了植入性器械追溯管理信息系统。(1分)",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107229962241",
+          "name": "8.1放射放疗装备机\n房环境安全符合要\n求。 (1分)",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107229962242",
+                  "name": "1．放射与放疗设备机房显著位置有规范的警示标识。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107229962243",
+                          "name": "50.放射与放疗设备机房显著位置有规范的警示标识、安全告知、MRI金属检测安全门以及警示灯联动装置。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107234156544",
+          "name": "8.2加强特殊装备技\n术安全管理。（ 3.5\n分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107234156545",
+                  "name": "1．特殊装备（如高压容器、放射装置等）具有生产、安装合格证明以及根据规定必备的许可证明。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107234156546",
+                          "name": "★51.高压容器、核医学放射源等相关许可证明资料（设备唯一性标识、压力表检定标识有效、特种设备使用登记证、安全阀校验报告）（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107234156547",
+                  "name": "2．特殊装备操作人员经过培训，具有相应的上岗资格。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107234156548",
+                          "name": "52.高压容器操作人员上岗证。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107238350848",
+                  "name": "3.装备管理部门对特殊装备定期自查和监测，有完整的自查和监测资料。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107238350849",
+                          "name": "53.装备管理部门对特殊装备定期自查和监测，有完整的自查和监测资料（年度）。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107238350850",
+                  "name": "4.有根据自查和监测情况改进特殊装备安全的措施并得到落实。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107238350851",
+                          "name": "54.有根据自查和监测情况改进特殊装备安全的措施并得到落实的记录。（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107238350852",
+          "name": "8.3 加强计量设备\n监测管理。（7分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107242545152",
+                  "name": "1．有计量设备清单、定期检测记录和维修记录等相关资料。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107242545153",
+                          "name": "55.计量设备清单。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107242545154",
+                          "name": "56.定期检测记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      },
+                      {
+                          "itemId": "785514107242545155",
+                          "name": "57.计量设备维修记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107242545156",
+                  "name": "2．经检测的计量器具有计量检测合格标志，标志显示检测时间与登记记录一致。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107246739456",
+                          "name": "58.有计量合格标志且计量检测合格标志时间与记录一致。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107246739457",
+                  "name": "3.为临床提供准确的计量设备，无因“计量错误”的原因所致的医疗安全事件。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107246739458",
+                          "name": "59.无因“计量错误”的原因所致的医疗安全事件。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107246739459",
+                  "name": "4.医院使用计量器具100%有计量检测合格标志,100%在有效期内",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107246739460",
+                          "name": "★60.现场抽查重点科室计量器具的合格标志（急诊室或ICU），100%有计量检测合格标志，100%在有效期内。（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107250933760",
+          "name": "8.4 建立保障装备\n的管理制度与规范。\n（4分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107250933761",
+                  "name": "1．有适宜的装备维修场地，涉及有毒有害作业应有合适的维修场所和有效防护。配置必备的检测和质量控制设备。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107250933762",
+                          "name": "61.现场检查，具有适宜的维修场地，配有必要的维修测试工具和质量控制设备（现场检查维修测试工具电气安全、除颤检测仪、呼吸机检测仪、输液泵检测仪等专业工具至少自有一项）。（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107250933763",
+                  "name": "2．有全院装备清单和具体保障要求与规范。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107250933764",
+                          "name": "★62.现场检查，医学装备具有唯一性标识，医疗设备固定资产标识100%。（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107250933765",
+          "name": "8.5 用于急救、生命\n支持系统仪器装备要始终保持在待用\n状态。（12分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107255128064",
+                  "name": "1．各科室急救类、生命支持类装备时刻保持待用状态。完好率100%.",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107255128065",
+                          "name": "★63.现场抽查呼吸机、心电图、除颤、输液泵和监护仪等设备的完好率，完好率100%。（10分）(呼吸机-4；其他1.5*4)",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107255128066",
+                  "name": "2.主管部门对急救类、生命支持类装备完好情况和使用情况进行实时监管。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107255128067",
+                          "name": "★64.急救类、生命支持类装备使用情况定期巡查的记录(从固定资产中抽查设备)。（2分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107255128068",
+          "name": "8.6 建立全院保障\n装备应急调配机制\n(1.5分)",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107259322368",
+                  "name": "1.有装备应急调配演练和监管。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107259322369",
+                          "name": "65.现场应急调配演练记录。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107259322370",
+                  "name": "2.有根据监管提出整改措施并得到落实。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107259322371",
+                          "name": "66.有根据监管提出整改措施并得到落实。（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107259322372",
+          "name": "8.7制订应急物资和\n设备储备计划，且有\n严格的管理制度及\n审批程序，有适量应\n急物资储备，有应对\n应急物资设备短缺\n的紧急供应渠道。\n（5.5分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107263516672",
+                  "name": "1．有应急物资和设备的储备计划。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107263516673",
+                          "name": "67.（设备+耗材）应急物资和设备的储备计划与储备目录（以检查防疫物资为主）。（1.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107263516674",
+                  "name": "2．有必备物资储备目录，有应急物资和设备的使用登记。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107263516675",
+                          "name": "68.应急物资和设备的使用登记，定期维护和自查记录，确保效期（以检查防疫物资为主）。（1.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107267710976",
+                  "name": "3．应急物资和设备有定期维护，确保效期，自查有记录。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107267710977",
+                          "name": "69.现场查看储备仓库，库存的储备物资与目录相符（以检查防疫物资为主）。（1.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107271905280",
+                  "name": "4.与供应商之间有应急物资和设备紧急供应的协议。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107271905281",
+                          "name": "70.查看与供应商之间应急物资和设备紧急供应的协议。（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      },
+      {
+          "itemId": "785514107271905282",
+          "name": "9．医学装备管理人员\n参加质控培训，积极\n配合完成各项调查和\n检查工作（3.5分）",
+          "displayIndex": 1,
+          "children": [
+              {
+                  "itemId": "785514107271905283",
+                  "name": "1．参加上海市医疗设备器械管理质控中心上半年学习班培训，并传达有关精神。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107271905284",
+                          "name": "71.各类培训的签到记录（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107271905285",
+                  "name": "2．参加上海市医疗设备器械管理质控中心下半年学习班培训，并传达有关精神。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107271905286",
+                          "name": "72.各类培训的签到记录（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107271905287",
+                  "name": "3．积极配合完成医政处和质控中心的各项调查和检查工作。",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107271905288",
+                          "name": "73.各类调查回收记录（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107276099584",
+                  "name": "4．积极参加质量管理员培训",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107276099585",
+                          "name": "74.质量管理员培训记录（0.5分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              },
+              {
+                  "itemId": "785514107276099586",
+                  "name": "5．积极参加年度QCC项目",
+                  "displayIndex": 2,
+                  "children": [
+                      {
+                          "itemId": "785514107276099587",
+                          "name": "75.本年度改进成效的优秀实例PCDA或参加QCC项目（1分）",
+                          "displayIndex": 3,
+                          "children": null,
+                          "canRepeatUse": false,
+                          "isFinish": false,
+                          "dirs": null,
+                          "files": null
+                      }
+                  ],
+                  "canRepeatUse": false,
+                  "isFinish": false,
+                  "dirs": null,
+                  "files": null
+              }
+          ],
+          "canRepeatUse": false,
+          "isFinish": false,
+          "dirs": null,
+          "files": null
+      }
+  ]
+}

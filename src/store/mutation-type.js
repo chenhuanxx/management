@@ -1,0 +1,2 @@
+// 左边菜单栏的宽度
+export const HANDLE_LEFTNAVWIDTH = 'HANDLE_LEFTNAVWIDTH'
