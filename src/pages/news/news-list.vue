@@ -14,9 +14,9 @@
       <el-table-column prop='createtTime' label='创建时间'> </el-table-column>
       <el-table-column prop='roleCode' label='操作' align="center" fixed="right" width="140px">
         <template slot-scope="scope">
-          <el-button @click="view(scope.row.id)" size="mini" type="success" icon="el-icon-view" circle></el-button>
-          <el-button @click="edit(scope.row.id)" size="mini" type="primary" icon="el-icon-edit" circle></el-button>
-          <el-button @click="deleteItem(scope.row.id)" size="mini" type="danger" icon="el-icon-delete" circle></el-button>
+          <el-button @click="view(scope.row.newId)" size="mini" type="success" icon="el-icon-view" circle></el-button>
+          <el-button @click="edit(scope.row.newId)" size="mini" type="primary" icon="el-icon-edit" circle></el-button>
+          <el-button @click="deleteItem(scope.row.newId)" size="mini" type="danger" icon="el-icon-delete" circle></el-button>
         </template>
       </el-table-column>
     </el-table>
@@ -51,6 +51,7 @@ export default {
       })
     },
     view (id) {
+      console.log('id', id)
       this.$router.push('/news-detail/view/' + id)
     },
     edit (id) {

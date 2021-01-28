@@ -1,6 +1,6 @@
 <template>
        <div>
-          <quill-editor v-model="goods" :options="editorOption"></quill-editor>
+          <quill-editor v-model="goods" :options="editorOption" style="min-height:500px"> </quill-editor>
           <el-button @click="csa">sasa</el-button>
        </div>
 </template>
@@ -43,10 +43,14 @@
     methods: {
       csa () {
         console.log('editorOption', this.editorOption)
-        console.log('sas', this.goodsForm.goods)
       }
     },
     destroyed() {
     }
   }
 </script>
+<style lang="less" scoped>
+    .ql-editor {
+      min-height: 500px;
+    }
+</style>

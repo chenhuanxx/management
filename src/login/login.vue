@@ -108,6 +108,7 @@ export default {
     justify-content: center;
     align-items: center;
     background: url('../assets/login/back-login.jpg') no-repeat center center;
+    background: #131212cf;
   }
   #login {
     position: relative;
@@ -123,6 +124,7 @@ export default {
       position: fixed;
       bottom: 40px;/*px*/
       left: 50%;
+      color: #fff;
       transform: translateX(-50%);
     }
     .login-warp {

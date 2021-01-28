@@ -51,7 +51,7 @@
               </div>
               <div class="new-input-item">
                 <div class="new-input-item one">
-                  <el-form-item label="备件图片" prop="imgArr">
+                  <el-form-item label="头像" prop="imgArr">
                     <div class="imgShow">
                       <viewer :images="detail.imgArr">
                           <img v-for="(item, index) in detail.imgArr" :src="item" :key="index">
@@ -98,7 +98,7 @@
           address: '',
           enable: '1',
           imgArr: [
-            'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1538988692454&di=a6086c2c80a99ec0a50ed3696776f39e&imgtype=0&src=http%3A%2F%2Fpic165.nipic.com%2Ffile%2F20180522%2F12398452_105538125000_2.jpg',
+            require('../../../assets/timg.jpg') ,
           ]
         },
         tableData: [],
