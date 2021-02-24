@@ -2,7 +2,7 @@
   <div class="topBar" :class="{'hide': hideNav}">
     <div class="topBar-left">
       <img  src="../assets/darkGreenIcon.png" width="100%"/>
-      <span>{{$userInfo.companyName}}</span>
+      <span><marquee behavior="scroll">{{$userInfo.companyName}}</marquee></span>
     </div>
     <div class="topBar-right">
       <video id="big-screen-audio">
