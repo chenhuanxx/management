@@ -14,7 +14,9 @@ const PersonalSetting = (resolve) => require(['@/pages/use/personal-setting'], r
 // 主要页面
 const NewsList = (resolve) => require(['@/pages/news/news-list'], resolve)
 const NewsDetail = (resolve) => require(['@/pages/news/news-detail'], resolve)
- 
+// 测试
+
+const payMoney = (resolve) => require(['@/pages/pay-money/index'], resolve)
 Vue.use(VueRouter)
 // 获取原型对象上的push函数
 const originalPush = VueRouter.prototype.push
@@ -92,6 +94,13 @@ const routes = [
       title: '新闻详情'
     },
     component: NewsDetail
+  },
+  {
+    path: '/pay-money',
+    meta: {
+      title: '微信支付'
+    },
+    component: payMoney
   }
 ]
 

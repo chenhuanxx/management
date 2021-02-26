@@ -16,6 +16,10 @@
           <i class="menu-icon menu6"></i>
           <span slot="title">新闻中心</span>
         </el-menu-item>
+        <el-menu-item index="3">
+          <i class="menu-icon menu6"></i>
+          <span slot="title">微信支付</span>
+        </el-menu-item>
         <!-- <el-submenu index="1" >
           <template slot="title">
             <i class="menu-icon menu3"></i>
@@ -102,6 +106,9 @@ export default {
           break
         case '2-3':
           toPath = '/use-management'
+          break
+        case '3':
+          toPath = '/pay-money'
           break
       }
       if (toPath) {

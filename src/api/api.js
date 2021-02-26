@@ -71,6 +71,9 @@ const useApi = (url, args) => {
 }
 
 export default {
+  axios (...args) {
+    return useApi('', args)
+  },
   getUserList (...args) {
     return useApi('use', args)
   },

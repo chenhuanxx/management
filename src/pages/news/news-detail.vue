@@ -33,6 +33,9 @@
                       </viewer>
                     </div>
                   </el-form-item>
+                  <el-form-item label="缩略图">
+                    <el-image   :preview-src-list="detail.imgArr"></el-image>
+                  </el-form-item>
                 </div>
               </div>
             </el-form>
