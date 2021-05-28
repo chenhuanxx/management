@@ -93,8 +93,8 @@ export default {
     }
   },
   beforeMount () {
-    this.$emit('navChange', false, 2, 'lg')
-    this.getList()
+    this.$emit('navChange', false, 1, 'lg')
+    // this.getList()
   }
 }
 </script>

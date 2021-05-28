@@ -6,7 +6,7 @@
 <script>
 import "ol/ol.css"
 import { Map, View } from "ol"
-import mapconfig from '../../config/mapconfig'
+import mapconfig from '../mapJs/mapconfig'
 export default {
   data() {
     return {

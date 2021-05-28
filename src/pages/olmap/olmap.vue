@@ -8,16 +8,11 @@
 </template>
 <script>
 import olmap from '@/components/olmap.vue'
-import map from '@/components/map.vue'
 export default {
   components: {
-    map,
     olmap
   },
   data() {
-    return {
-      map: null
-    };
   },
   mounted() {
     this.$emit('navChange', false, 7, 'lg',)
@@ -25,6 +20,9 @@ export default {
 }
 </script>
 <style>
+.map-ol {
+  position: relative;
+}
 .map {
   position: absolute;
   height: 500px;

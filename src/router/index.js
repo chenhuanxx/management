@@ -16,6 +16,8 @@ const NewsList = (resolve) => require(['@/pages/news/news-list'], resolve)
 const NewsDetail = (resolve) => require(['@/pages/news/news-detail'], resolve)
 // 测试
 const DocumentReview = (resolve) => require(['@/pages/document-review/document-review'], resolve)
+const CategoryManagement = (resolve) => require(['@/pages/category/category-management'], resolve)
+
 const DocumentReviewDetail = (resolve) => require(['@/pages/document-review/document-review-detail'], resolve)
 const TransactionRecord = (resolve) => require(['@/pages/transaction-record/transaction-record'], resolve)
 const Statistics = (resolve) => require(['@/pages/statistics/statistics'], resolve)
@@ -109,13 +111,13 @@ const routes = [
     },
     component: UseManagement
   },
-  // {
-  //   path: '/category-management',
-  //   meta: {
-  //     title: '品类管理'
-  //   },
-  //   component: CategoryManagement
-  // }, 
+  {
+    path: '/category-management',
+    meta: {
+      title: '品类管理'
+    },
+    component: CategoryManagement
+  }, 
   {
     path: '/document-review',
     meta: {

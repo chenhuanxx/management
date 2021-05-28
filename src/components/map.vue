@@ -1,34 +1,27 @@
 <template>
-  <div id="mapDiv"></div>
+  <div>
+    sds
+  </div>
 </template>
 
 <script>
-import "ol/ol.css";
-import { Map, View } from "ol";
-import TileLayer from "ol/layer/Tile";
-import OSM from "ol/source/OSM";
 export default {
+  data() {
+    return {
+    };
+  },
   mounted() {
-    const map = new Map({
-      target: "mapDiv",
-      layers: [
-        new TileLayer({
-          source: new OSM()
-        })
-      ],
-      view: new View({
-        center: [0, 0],
-        zoom: 0
-      })
-    });
   }
 };
 </script>
 
-<style scoped>
-#mapDiv{
+<style>
+#map{
+  height:100%;
   position: absolute;
   width: 100%;
-  height: 100%;
 }
+/*隐藏ol的一些自带元素*/
+.ol-attribution,.ol-zoom { display: none;}
+
 </style>
