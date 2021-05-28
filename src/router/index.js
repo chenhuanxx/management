@@ -15,8 +15,15 @@ const PersonalSetting = (resolve) => require(['@/pages/use/personal-setting'], r
 const NewsList = (resolve) => require(['@/pages/news/news-list'], resolve)
 const NewsDetail = (resolve) => require(['@/pages/news/news-detail'], resolve)
 // 测试
+const DocumentReview = (resolve) => require(['@/pages/document-review/document-review'], resolve)
+const DocumentReviewDetail = (resolve) => require(['@/pages/document-review/document-review-detail'], resolve)
+const TransactionRecord = (resolve) => require(['@/pages/transaction-record/transaction-record'], resolve)
+const Statistics = (resolve) => require(['@/pages/statistics/statistics'], resolve)
+ 
+const Olmap = (resolve) => require(['@/pages/olmap/olmap'], resolve)
 
-const payMoney = (resolve) => require(['@/pages/pay-money/index'], resolve)
+const Map = (resolve) => require(['@/pages/olmap/Map'], resolve)
+
 Vue.use(VueRouter)
 // 获取原型对象上的push函数
 const originalPush = VueRouter.prototype.push
@@ -45,7 +52,7 @@ const routes = [
       title: '首页'
     },
     component: Home
-  },
+  }, 
   {
     path: '/personal-setting',
     meta: {
@@ -96,12 +103,69 @@ const routes = [
     component: NewsDetail
   },
   {
-    path: '/pay-money',
+    path: '/use-management',
     meta: {
-      title: '微信支付'
+      title: '用户管理'
     },
-    component: payMoney
+    component: UseManagement
+  },
+  // {
+  //   path: '/category-management',
+  //   meta: {
+  //     title: '品类管理'
+  //   },
+  //   component: CategoryManagement
+  // }, 
+  {
+    path: '/document-review',
+    meta: {
+      title: '文档审核'
+    },
+    component: DocumentReview
+  },
+  {
+    path: '/document-review-detail/:id?',
+    meta: {
+      title: '文档审核详情'
+    },
+    component: DocumentReviewDetail
+  },
+  {
+    path: '/transaction-record',
+    meta: {
+      title: '交易记录'
+    },
+    component: TransactionRecord
+  },
+  {
+    path: '/statistics',
+    meta: {
+      title: '交易记录'
+    },
+    component: Statistics
+  },
+  {
+    path: '/personal-setting',
+    meta: {
+      title: '用户信息'
+    },
+    component: PersonalSetting
+  },
+  {
+    path: '/ol-map',
+    meta: {
+      title: '地图'
+    },
+    component: Olmap
+  },
+  {
+    path: '/map',
+    meta: {
+      title: 'Map'
+    },
+    component: Map
   }
+  
 ]
 
 export default new VueRouter({

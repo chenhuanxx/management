@@ -78,8 +78,8 @@ export default {
       this.$router.push('/news-detail/create/' + '')
     }
   },
-  beforeMount () {
-    this.$emit('navChange', false, 1, 'lg',)
+  mounted () {
+    this.$emit('navChange', false, 8, 'lg',)
     this.getList()
   }
 }

@@ -40,7 +40,7 @@
               </div>
             </el-form>
             <div class="editor">
-              <editor :goods="goods"></editor>
+              <!-- <editor :goods="goods"></editor> -->
             </div>
           </toggle-search>
         </div>
@@ -54,10 +54,10 @@
     </div>
 </template>
 <script>
-  import editor from './components/editor'
+  // import editor from './components/editor'
   export default {
     components: {
-      editor
+      // editor
     },
     data () {
       return {

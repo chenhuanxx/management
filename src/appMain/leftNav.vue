@@ -11,30 +11,13 @@
         <el-menu-item index="0">
           <i class="menu-icon menu2"></i>
           <span slot="title">首页</span>
-        </el-menu-item>
+        </el-menu-item> 
+        
         <el-menu-item index="1">
-          <i class="menu-icon menu6"></i>
-          <span slot="title">新闻中心</span>
+          <i class="menu-icon menu9"></i>
+          <span slot="title">类别管理</span>
         </el-menu-item>
-        <el-menu-item index="3">
-          <i class="menu-icon menu6"></i>
-          <span slot="title">微信支付</span>
-        </el-menu-item>
-        <!-- <el-submenu index="1" >
-          <template slot="title">
-            <i class="menu-icon menu3"></i>
-            <span slot="title">设备管理</span>
-          </template>
-          <el-menu-item-group>
-            <el-menu-item index="1-1" class="subMenuItem ml15">设备台账</el-menu-item>
-            <el-menu-item index="1-2" class="subMenuItem ml15">设备转借</el-menu-item>
-            <el-menu-item index="1-4" class="subMenuItem ml15">资产转科</el-menu-item>
-            <el-menu-item index="1-5" class="subMenuItem ml15">计量管理</el-menu-item>
-            <el-menu-item index="1-6" class="subMenuItem ml15">报废管理</el-menu-item>
-            <el-menu-item index="1-7" class="subMenuItem ml15">不良事件</el-menu-item>
-            <el-menu-item index="1-9" class="subMenuItem ml15">使用记录</el-menu-item>
-          </el-menu-item-group>
-        </el-submenu> -->
+        
         <el-submenu index="2" >
           <template slot="title">
             <i class="menu-icon menu4"></i>
@@ -46,7 +29,36 @@
             <el-menu-item index="2-3" class="subMenuItem ml15">用户管理</el-menu-item>
           </el-menu-item-group>
         </el-submenu>
-      </el-menu>
+        
+        <el-menu-item index="3">
+          <i class="menu-icon menu3"></i>
+          <span slot="title">文档审核</span>
+        </el-menu-item>
+        
+        <el-menu-item index="4">
+          <i class="menu-icon menu4"></i>
+          <span slot="title">交易记录</span>
+        </el-menu-item>
+    
+        <el-menu-item index="7">
+          <i class="menu-icon menu7"></i>
+          <span slot="title">ol-map</span>
+        </el-menu-item>
+        
+        <el-menu-item index="9">
+          <i class="menu-icon menu9"></i>
+          <span slot="title">map</span>
+        </el-menu-item>
+        <el-menu-item index="5">
+          <i class="menu-icon menu6"></i>
+          <span slot="title">数据统计</span>
+        </el-menu-item>
+
+        <el-menu-item index="8">
+          <i class="menu-icon menu6"></i>
+          <span slot="title">新闻中心</span>
+        </el-menu-item>
+      </el-menu> 
     </el-scrollbar>
   </div>
 </template>
@@ -96,9 +108,9 @@ export default {
           toPath = '/'
           break
         case '1':
-          toPath = '/news-list'
+          toPath = '/category-management'
           break
-        case '2-1':
+         case '2-1':
           toPath = '/authority-management'
           break
         case '2-2':
@@ -108,7 +120,26 @@ export default {
           toPath = '/use-management'
           break
         case '3':
-          toPath = '/pay-money'
+          toPath = '/document-review'
+          break
+        case '4':
+          toPath = '/transaction-record'
+          break
+        case '5':
+          toPath = '/statistics'
+          break
+        case '6':
+          toPath = '/role-management'
+          break
+        case '7':
+          toPath = '/ol-map'
+          break
+        
+        case '9':
+          toPath = '/map'
+          break
+        case '8':
+          toPath = '/news-list'
           break
       }
       if (toPath) {
