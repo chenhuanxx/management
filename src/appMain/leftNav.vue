@@ -58,6 +58,11 @@
           <i class="menu-icon menu6"></i>
           <span slot="title">新闻中心</span>
         </el-menu-item>
+
+        <el-menu-item index="10">
+          <i class="menu-icon menu10"></i>
+          <span slot="title">天气</span>
+        </el-menu-item>
       </el-menu> 
     </el-scrollbar>
   </div>
@@ -140,6 +145,9 @@ export default {
           break
         case '8':
           toPath = '/news-list'
+          break
+        case '10':
+          toPath = '/tianqi-list'
           break
       }
       if (toPath) {

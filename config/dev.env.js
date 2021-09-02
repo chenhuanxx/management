@@ -1,8 +1,8 @@
-'use strict'
-const merge = require('webpack-merge')
-const prodEnv = require('./prod.env')
+var merge = require('webpack-merge')
+var devEnv = require('./dev.env')
 
-module.exports = merge(prodEnv, { 
+module.exports = merge(devEnv, {
   NODE_ENV: '"development"',
-  PREFIX_API:'"api/"',
+  PREFIX_API: '"api/"',
+  PURCHASE_URL: '"purchase/"',
 })

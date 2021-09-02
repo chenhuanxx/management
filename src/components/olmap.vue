@@ -19,8 +19,8 @@ export default {
       target: mapcontainer,
       layers: mapconfig.streetmap(),
       view: new View({
-        projection: "EPSG:4326",    //使用这个坐标系
-        center: [mapconfig.x,mapconfig.y],  //深圳
+        projection: "EPSG:4326",
+        center: [mapconfig.x,mapconfig.y],   
         zoom: mapconfig.zoom
       })
     });

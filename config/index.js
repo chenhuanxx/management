@@ -1,7 +1,7 @@
-'use strict'
-const path = require('path')
+  'use strict'
+  const path = require('path')
 
-module.exports = {
+  module.exports = {
   build: {
     // Template for index.html
     index: path.resolve(__dirname, '../dist/index.html'),
@@ -23,10 +23,20 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-         target: 'http://localhost:8888/',
+        target: 'http://localhost:8888/',
         changeOrigin: true,
         pathRewrite: {
           '^/api': ''
+        },
+        cookieDomainRewrite: {
+          "*": "localhost"
+        }
+      },
+      '/purchase': {
+        target: 'https://www.tianqiapi.com/',
+        changeOrigin: true,
+        pathRewrite: {
+          '^/purchase': ''
         },
         cookieDomainRewrite: {
           "*": "localhost"

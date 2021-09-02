@@ -26,6 +26,8 @@ const Olmap = (resolve) => require(['@/pages/olmap/olmap'], resolve)
 
 const Map = (resolve) => require(['@/pages/olmap/Map'], resolve)
 
+const TianQi = (resolve) => require(['@/pages/tianqi/tianqi-list'], resolve)
+
 Vue.use(VueRouter)
 // 获取原型对象上的push函数
 const originalPush = VueRouter.prototype.push
@@ -166,6 +168,13 @@ const routes = [
       title: 'Map'
     },
     component: Map
+  },
+  {
+    path: '/tianqi-list',
+    meta: {
+      title: 'TianQi'
+    },
+    component: TianQi
   }
   
 ]
