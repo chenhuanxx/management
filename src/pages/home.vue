@@ -3,8 +3,7 @@
     <div class="imglist">
     <video autoplay loop muted>
       <source src="http://kedu-prod.oss-cn-hangzhou.aliyuncs.com/data-centre/common_inventroy.mp4" type="video/mp4" />
-    </video>
-      <!-- <img src="../assets/homebg.jpg" alt="" width="100%" height="100%"> -->
+    </video> 
     </div>
     <div class="bgimg">
       {{$userInfo.userName}} , 欢迎来到{{$userInfo.company}}管理后台!
@@ -17,7 +16,7 @@
                 <img src="../assets/1.png" alt="">
               </div>
               <dl class="statistics-number">
-                <dt>医院数</dt>
+                <dt>功能数</dt>
                 <dd><span>{{formData.hospital || 0}}</span> 家</dd>
               </dl>
             </div>
